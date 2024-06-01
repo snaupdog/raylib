@@ -1,0 +1,3 @@
+/Users/nihalsatish/code/raylib_stuff/p1/build/CMakeFiles/main.dir
+/Users/nihalsatish/code/raylib_stuff/p1/build/CMakeFiles/edit_cache.dir
+/Users/nihalsatish/code/raylib_stuff/p1/build/CMakeFiles/rebuild_cache.dir
